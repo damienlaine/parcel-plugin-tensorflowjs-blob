@@ -1,0 +1,62 @@
+{
+  "_args": [
+    [
+      "parcel-plugin-tensorflowjs-blob@1.0.0",
+      "C:\\Users\\damie\\Desktop\\linto\\webvoicesdk"
+    ]
+  ],
+  "_development": true,
+  "_from": "parcel-plugin-tensorflowjs-blob@1.0.0",
+  "_id": "parcel-plugin-tensorflowjs-blob@1.0.0",
+  "_inBundle": false,
+  "_integrity": "sha512-y5Jd8aJBC8fGTf0o9LtdNP/6tTfVPwKie8eP5IbteH/jLQuc++tsQ7Zez1BiztGclGSelragwPdzWZljcw7QVQ==",
+  "_location": "/parcel-plugin-tensorflowjs-blob",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "parcel-plugin-tensorflowjs-blob@1.0.0",
+    "name": "parcel-plugin-tensorflowjs-blob",
+    "escapedName": "parcel-plugin-tensorflowjs-blob",
+    "rawSpec": "1.0.0",
+    "saveSpec": null,
+    "fetchSpec": "1.0.0"
+  },
+  "_requiredBy": [
+    "#DEV:/"
+  ],
+  "_resolved": "https://registry.npmjs.org/parcel-plugin-tensorflowjs-blob/-/parcel-plugin-tensorflowjs-blob-1.0.0.tgz",
+  "_spec": "1.0.0",
+  "_where": "C:\\Users\\damie\\Desktop\\linto\\webvoicesdk",
+  "author": {
+    "name": "Damien Laine",
+    "email": "damien.laine@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/damienlaine/parcel-plugin-tensorflowjs-blob/issues"
+  },
+  "description": "Inline TensorFlowJS models in your app bundle. Simply import weight manifest .bin file and get associated model.json as a blob URL",
+  "homepage": "https://github.com/damienlaine/parcel-plugin-tensorflowjs-blob#readme",
+  "keywords": [
+    "parcel",
+    "parcel-bundler",
+    "parcel-plugin",
+    "tensorflowjs",
+    "tensorflow",
+    "inline",
+    "blob",
+    "machine-learning",
+    "script tag"
+  ],
+  "license": "MIT",
+  "main": "lib/index.js",
+  "name": "parcel-plugin-tensorflowjs-blob",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/damienlaine/parcel-plugin-tensorflowjs-blob.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}
